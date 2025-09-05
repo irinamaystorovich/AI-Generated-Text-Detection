@@ -83,7 +83,7 @@ Two main datasets were used:
 
 ---
 
-## 📊 Results
+##  Results
 
 | Model           | Precision (Human) | Recall (Human) | Precision (AI) | Recall (AI) | F1-Score | Accuracy |
 |-----------------|-------------------|----------------|----------------|------------|----------|----------|
