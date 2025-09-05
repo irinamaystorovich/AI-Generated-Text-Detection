@@ -22,7 +22,7 @@ Our goal was to **scrape social media platform data**, generate synthetic AI pos
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 Two main datasets were used:
 
 1. **Custom social media forums Dataset**  
@@ -41,7 +41,7 @@ Two main datasets were used:
 
 ---
 
-## ⚙️ Technical Stack
+##  Technical Stack
 - **Programming Language:** Python  
 - **Libraries & Tools:**
   - `transformers` (Hugging Face)
@@ -60,10 +60,10 @@ Two main datasets were used:
 ### 1. Data Collection
 - Scraped social media forums data using **social media forums API** and libraries like `PRAW`.
 - Implemented IP rate-limiting and anonymized user data.
-- Subsocial media forumss included: `specialneeds`, `special`, `Asksocial media forums`, `Mensa`, `Parenting`, etc.
+- Subsocial media forums included: `specialneeds`, `special`, `Asksocial media forums`, `Mensa`, `Parenting`, etc.
 
 ### 2. Data Generation
-- Used **ChatGPT-4** to generate synthetic posts matching the style and content of real social media forums posts.
+- Used **ChatGPT-4** to generate synthetic posts matching the style and content of real social media forum posts.
 
 ### 3. Model Training
 - **Fine-tuned BERT** for binary classification (human vs. AI text).
