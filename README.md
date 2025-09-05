@@ -55,7 +55,7 @@ Two main datasets were used:
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
 ### 1. Data Collection
 - Scraped social media forums data using **social media forums API** and libraries like `PRAW`.
